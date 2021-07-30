@@ -1,3 +1,11 @@
+## React TodoApp
+* Built React based Todo App.
+* Coded the Frontend using JavaScript, HTML and CSS.
+* To check the application please click [here](https://jolly-jennings-e74805.netlify.app)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
